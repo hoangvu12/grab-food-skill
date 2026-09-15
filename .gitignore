@@ -1,0 +1,4 @@
+node_modules/
+.grab-food/
+cookies.json
+.env
