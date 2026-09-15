@@ -22,7 +22,7 @@ You need 3 cookies from `food.grab.com`. They last a month or two.
 node scripts/init-cookies.mjs
 ```
 
-The script opens your browser DevTools, copies the cookies, saves them, and checks that they work.
+The script asks you to login to food.grab.com in your browser, copy the cookies from DevTools, and paste them back.
 
 ### Manual
 
